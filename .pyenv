@@ -1,9 +1,0 @@
-PATH="/home/pyuser/.local/bin:${PATH}"
-FLASK_APP=flaskapp
-FLASK_RUN_PORT=8080
-FLASK_RUN_HOST=0.0.0.0
-MYSQL_HOST="mtcarmel.cihirx4dlmgi.us-east-1.rds.amazonaws.com"
-MYSQL_USER=jeffee
-MYSQL_PASSWORD=grayson1
-MYSQL_DB=mtcarmel
-MYSQL_PORT=3306
